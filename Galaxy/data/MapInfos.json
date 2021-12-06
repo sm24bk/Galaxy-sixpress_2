@@ -1,33 +1,13 @@
 [
 null,
-<<<<<<< HEAD
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":411.55555555555554,"scrollY":320.8888888888889},
-{"id":2,"expanded":false,"name":"MAP002","order":2,"parentId":0,"scrollX":0,"scrollY":0},
-{"id":3,"expanded":false,"name":"MAP003","order":3,"parentId":0,"scrollX":0,"scrollY":0},
-{"id":4,"expanded":false,"name":"MAP004","order":4,"parentId":0,"scrollX":534,"scrollY":297},
-=======
 {"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":744,"scrollY":464.8888888888889},
 {"id":2,"expanded":false,"name":"빙판맵","order":2,"parentId":0,"scrollX":744,"scrollY":464.8888888888889},
 {"id":3,"expanded":false,"name":"우주선맵","order":3,"parentId":0,"scrollX":940,"scrollY":524},
 {"id":4,"expanded":false,"name":"MAP004","order":4,"parentId":0,"scrollX":502.6666666666667,"scrollY":598},
->>>>>>> 10e242cdbcd7a5e92408a44afa9b5f8a9613bfeb
 {"id":5,"expanded":false,"name":"MAP005","order":5,"parentId":0,"scrollX":0,"scrollY":0},
 {"id":6,"expanded":false,"name":"MAP006","order":6,"parentId":0,"scrollX":0,"scrollY":0},
 {"id":7,"expanded":false,"name":"MAP007","order":7,"parentId":0,"scrollX":0,"scrollY":0},
 {"id":8,"expanded":false,"name":"MAP008","order":8,"parentId":0,"scrollX":0,"scrollY":0},
-<<<<<<< HEAD
-{"id":9,"expanded":false,"name":"MAP009","order":9,"parentId":0,"scrollX":0,"scrollY":0},
-{"id":10,"expanded":false,"name":"MAP010","order":10,"parentId":0,"scrollX":801,"scrollY":457.5},
-{"id":11,"expanded":false,"name":"MAP011","order":11,"parentId":0,"scrollX":0,"scrollY":0},
-{"id":12,"expanded":false,"name":"MAP012","order":12,"parentId":0,"scrollX":534,"scrollY":297},
-{"id":13,"expanded":false,"name":"MAP013","order":13,"parentId":0,"scrollX":709.3333333333334,"scrollY":388.6666666666667},
-{"id":14,"expanded":false,"name":"MAP014","order":14,"parentId":0,"scrollX":536,"scrollY":294.5},
-{"id":15,"expanded":false,"name":"MAP015","order":15,"parentId":0,"scrollX":798.6666666666666,"scrollY":448.6666666666667},
-{"id":16,"expanded":false,"name":"사막맵","order":16,"parentId":0,"scrollX":580.3636363636364,"scrollY":559.0909090909091},
-{"id":17,"expanded":false,"name":"사막맵 도입부 1","order":17,"parentId":0,"scrollX":580.3636363636364,"scrollY":318},
-{"id":18,"expanded":true,"name":"사막맵 도입부 2","order":18,"parentId":0,"scrollX":709.3333333333334,"scrollY":399.3333333333333},
-{"id":19,"expanded":false,"name":"사막맵_함정","order":19,"parentId":0,"scrollX":580.3636363636364,"scrollY":318},
-=======
 {"id":9,"expanded":false,"name":"우주선","order":9,"parentId":0,"scrollX":751.1111111111111,"scrollY":495.1111111111111},
 {"id":10,"expanded":false,"name":"MAP010","order":10,"parentId":0,"scrollX":0,"scrollY":0},
 {"id":11,"expanded":false,"name":"MAP011","order":11,"parentId":0,"scrollX":0,"scrollY":0},
@@ -39,6 +19,5 @@ null,
 {"id":17,"expanded":false,"name":"MAP017","order":17,"parentId":0,"scrollX":0,"scrollY":0},
 {"id":18,"expanded":false,"name":"MAP018","order":18,"parentId":0,"scrollX":744,"scrollY":464.8888888888889},
 {"id":19,"expanded":false,"name":"MAP019","order":19,"parentId":0,"scrollX":0,"scrollY":0},
->>>>>>> 10e242cdbcd7a5e92408a44afa9b5f8a9613bfeb
 {"id":20,"expanded":false,"name":"MAP020","order":20,"parentId":0,"scrollX":0,"scrollY":0}
 ]
