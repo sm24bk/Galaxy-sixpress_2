@@ -99,5 +99,5 @@ null,
 {"id":97,"flags":[16],"mode":1,"name":"","note":"","tilesetNames":["","","","","","","","",""]},
 {"id":98,"flags":[16],"mode":1,"name":"","note":"","tilesetNames":["","","","","","","","",""]},
 {"id":99,"flags":[16],"mode":1,"name":"","note":"","tilesetNames":["","","","","","","","",""]},
-{"id":100,"flags":[16],"mode":1,"name":"","note":"","tilesetNames":["","","","","","","","",""]}
+{"id":100,"flags":[16],"mode":1,"name":"타일셋 테스트용","note":"","tilesetNames":["Dungeon_A1","Dungeon_A2","","Dungeon_A4","Dungeon_A5","Dungeon_B 타일셋 수정","우주선 +맵","",""]}
 ]
