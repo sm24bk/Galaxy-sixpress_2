@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":false,"name":"놀이공원맵","order":1,"parentId":0,"scrollX":774.8571428571428,"scrollY":648},
-{"id":2,"expanded":false,"name":"빙판맵","order":2,"parentId":0,"scrollX":879.4285714285713,"scrollY":648},
+{"id":2,"expanded":false,"name":"빙판맵","order":2,"parentId":0,"scrollX":1390.2857142857142,"scrollY":790.2857142857142},
 null,
 {"id":4,"expanded":true,"name":"모자상점","order":3,"parentId":0,"scrollX":439.0909090909091,"scrollY":412.3636363636364},
 {"id":5,"expanded":true,"name":"뱀맵","order":4,"parentId":0,"scrollX":774.8571428571428,"scrollY":648},
